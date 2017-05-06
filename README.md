@@ -8,6 +8,8 @@
 
 ## Fullstack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/diegohaz/arc-fullstack.svg)](https://greenkeeper.io/)
+
 This branch adds a NodeJS, Express and MongoDB REST API to the [universal-redux](https://github.com/diegohaz/arc/tree/universal-redux) branch.
 
 See the [demo](https://arc.diegohaz.com).
